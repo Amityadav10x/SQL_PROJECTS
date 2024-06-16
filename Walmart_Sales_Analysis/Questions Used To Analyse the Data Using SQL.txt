@@ -1,0 +1,30 @@
+How many unique cities does the data have 
+In which city is each branch 
+how many unique product lines does the data have 
+what is the most common payment method 
+what is the most selling product line 
+what is total revenue by month 
+what month had largest cogs 
+which product line had largest revenue 
+which city have largest revenue 
+which product line had the largest vat 
+which branch sold more products than average product 
+what is the most common product line by gender
+what is the average rating of each product line 
+Number of sales made in each time the day 
+
+which of the customer types brings most revenue 
+which city has the largest tax percent/VAT 
+which customer types pays the most in vat 
+which customer types pays the most in vat
+how many unique customer type does the data have 
+how many unique payment methods does the data have 
+what is the most common customer type 
+which customer type buys the most 
+what is the gender of most customers
+what is the gender distribution of branch
+what time of the day do customers give most rating 
+what time of the day do customers give most rating per branch 
+which day of the week has best avg rating
+which day of the week has best average ratings per branch 
+

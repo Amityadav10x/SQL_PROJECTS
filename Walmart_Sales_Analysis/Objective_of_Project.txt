@@ -1,0 +1,8 @@
+The primary objective of this project is to perform a comprehensive analysis of D-Mart sales data to extract valuable insights and support data-driven decision-making. By leveraging SQL, the project aims to:
+
+Understand sales trends and patterns across different time periods and locations.
+Identify the most popular products and payment methods.
+Analyze customer behavior and demographics to tailor marketing strategies.
+Evaluate the performance of various branches and product lines.
+Assess the impact of promotional activities and optimize inventory management.
+Provide actionable insights that can enhance operational efficiency and increase overall revenue.
