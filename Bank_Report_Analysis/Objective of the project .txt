@@ -1,0 +1,3 @@
+Objective of the project :
+
+The objective of this project was to create an interactive and comprehensive bank report analysis using SQL. The dashboards were designed to visualize key metrics such as total loan applications, funded amounts, received amounts, interest rates, and debt-to-income ratios. The analysis included monthly trends, state-wise distributions, and customer segmentation by employee length, home ownership, and loan purpose. The detailed loan information provided insights into individual loan performance and enabled filtering by loan quality, grade, and state.
