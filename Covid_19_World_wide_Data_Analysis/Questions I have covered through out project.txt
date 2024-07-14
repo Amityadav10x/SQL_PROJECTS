@@ -1,0 +1,46 @@
+Basic:
+
+1. Select all columns for the country "USA".
+2. Find the total number of confirmed cases in the continent "Europe".
+3. Select the country and total number of deaths for countries with more than 1000 deaths.
+4. Find the total number of recovered cases in the country "India".
+5. Select all columns for countries with more than 10000 active cases.
+6. Find the total number of confirmed cases in the continent "Asia".
+7. Select the country and total number of tests for countries with more than 100000 tests.
+8. Find the population count for the country "China".
+9. Select all columns for countries with more than 500 serious or critical cases.
+10. Find the total number of confirmed cases per 1 million population for the country "Brazil".
+
+Intermediate:
+
+1. Find the average number of daily new cases for all countries in the continent "Africa".
+2. Select the country and cumulative total cases for countries with more than 100000 cumulative total cases.
+3. Find the total number of deaths per 1 million population for the continent "Europe".
+4. Select the country and active cases for countries with more than 50000 active cases.
+5. Find the total number of tests per 1 million population for the country "Japan".
+6. Select the country and daily new deaths for countries with more than 100 daily new deaths.
+7. Find the cumulative total deaths for the continent "North America".
+8. Select the country and total cases per 1 million population for countries with more than 5000 total cases per 1 million population.
+9. Find the average number of serious or critical cases for all countries in the continent "South America".
+10. Select the country and population for countries with more than 10000000 population.
+
+
+advanced :
+
+1. Find the top 5 countries with the highest average number of daily new cases per 1 million population in the last 30 days.
+2. Select the continent and average number of total tests per 1 million population, grouped by continent, for continents with more than 100000 total tests.
+3. Find the country with the highest cumulative total cases per 1 million population, and the corresponding value.
+4. Select the country and average number of active cases per 1 million population, grouped by country, for countries with more than 10000 active cases.
+5. Find the top 5 countries with the highest number of serious or critical cases per 1 million population.
+6. Select the continent and average number of total deaths per 1 million population, grouped by continent, for continents with more than 1000 total deaths.
+7. Find the country with the highest number of daily new deaths per 1 million population, and the corresponding value.
+8. Select the country and average number of total cases per 1 million population, grouped by country, for countries with more than 5000 total cases per 1 million population.
+9. Find the top 5 countries with the highest number of total tests per 1 million population.
+10. Select the continent and average number of recovered cases per 1 million population, grouped by continent, for continents with more than 1000 recovered cases.
+
+These advanced questions require more complex queries, such as:
+
+- Using subqueries and joins
+- Grouping and aggregating data by multiple columns
+- Using window functions (e.g., ROW_NUMBER(), RANK())
+- Filtering data based on calculated columns or measures
