@@ -1,0 +1,30 @@
+Learnings
+By working through these SQL questions, I have develop a range of skills, including:
+
+Basic SQL Queries:
+
+Selecting data with SELECT and filtering with WHERE.
+Sorting data using ORDER BY.
+
+Aggregations and Grouping:
+
+Using aggregate functions such as AVG, SUM, COUNT, MIN, and MAX.
+Grouping data with GROUP BY.
+Filtering grouped data with HAVING.
+
+Joins and Subqueries:
+
+Combining data from multiple tables using JOIN.
+Writing subqueries to perform operations on subsets of data.
+
+Advanced SQL Functions and Analysis:
+
+Using window functions like RANK, ROW_NUMBER, LAG, LEAD.
+Performing calculations and transformations using SQL functions.
+Analyzing data trends and patterns with advanced functions.
+
+Complex Conditions and Case Statements:
+
+Using CASE statements for conditional logic in SQL queries.
+Writing complex WHERE clauses with multiple conditions.
+Classifying data into categories based on conditions.
