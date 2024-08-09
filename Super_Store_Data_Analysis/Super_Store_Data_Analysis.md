@@ -45,8 +45,4 @@ The Superstore SQL project offers a detailed exploration of the store's data thr
 - Superstore dataset
 
 ## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+AMIT YADAV
