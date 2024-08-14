@@ -1,5 +1,5 @@
 
-# SQL Practice Project
+# HR ANALYTICS PROJECT
 
 ## Table of Contents
 - [Introduction](#introduction)
