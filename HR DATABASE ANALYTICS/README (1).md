@@ -65,13 +65,5 @@ Through this SQL practice project, I have gained:
 
 ## Tools and Technologies Used
 - **SQL**: Primary tool for writing and executing queries.
-- **MySQL Workbench**: Used as the environment for query execution and data analysis.
+- **Microsoft sql server studio**: Used as the environment for query execution and data analysis.
 - **Excel**: For initial data exploration and summary statistics.
-
-## Future Enhancements
-- **Advanced Query Optimization**: Explore and implement more advanced techniques to optimize query performance for large datasets.
-- **Additional Scenarios**: Create more complex and diverse scenarios that involve advanced SQL concepts such as window functions, recursive queries, and CTEs (Common Table Expressions).
-- **Visualization**: Integrate data visualization tools like Power BI or Tableau to present the findings in a more interactive and visually appealing manner.
-
-## Acknowledgments
-I would like to acknowledge the resources and mentors that have guided me in enhancing my SQL skills. Their support and insights have been instrumental in my learning journey.
