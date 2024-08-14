@@ -7,9 +7,7 @@
 - [SQL Questions](#sql-questions)
 - [Key Learnings](#key-learnings)
 - [Tools and Technologies Used](#tools-and-technologies-used)
-- [Future Enhancements](#future-enhancements)
-- [Acknowledgments](#acknowledgments)
-
+  
 ## Introduction
 This project is centered around practicing SQL queries to enhance my skills in data analysis and database management. The dataset used for this practice is an HR dataset that includes various employee-related attributes. The questions crafted for this project are designed to reflect real-world scenarios, helping HR professionals to manage their workforce effectively.
 
