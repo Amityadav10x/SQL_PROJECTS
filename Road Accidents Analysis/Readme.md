@@ -25,8 +25,6 @@ The dataset includes information on:
 
 ## **Technologies Used**  
 - **SQL**: For querying, filtering, and deriving insights from the dataset.  
-- **Tableau**: For creating professional visualizations to interpret results.  
-- **HTML**: For showcasing key findings on a web interface.  
 
 ---
 
