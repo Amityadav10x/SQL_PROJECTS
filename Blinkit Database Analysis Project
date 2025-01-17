@@ -1,0 +1,71 @@
+--                                                             Blinkit DataBase Analysis
+
+-- Customer Analysis
+
+-- What is the total number of premium customers registered?
+
+select customer_segment,count(customer_id) as total_customers
+from blinkit_customers
+where customer_segment = 'Premium'
+group by customer_segment
+order by total_customers
+
+-- Which customer segment places the most orders?
+
+select customer_segment,sum(total_orders) as total_orders
+from blinkit_customers
+group by customer_segment
+order by total_orders desc
+
+-- Find the top 5 customers based on their total number of orders.
+
+select top 5 customer_name,sum(total_orders) as total_orders
+from blinkit_customers
+group by customer_name
+order by total_orders desc
+
+-- How many customers have an average order value greater than ₹500?
+
+select count(customer_id) as total_customers
+from blinkit_customers
+where avg_order_value > 500 
+
+-- List customers who registered in 2024 and placed more than 5 orders.
+
+select customer_name,
+year(registration_date) as registration_year,
+total_orders
+from blinkit_customers
+where year(registration_date) = '2024' and total_orders > '5'
+order by total_orders desc
+
+-- Calculate the average order value for each customer segment.
+
+select customer_segment,round(avg(avg_order_value),2) as avg_order_values
+from blinkit_customers
+group by customer_segment
+order by avg_order_values desc
+
+-- Which city has the highest number of registered customers?
+
+select area,count(customer_id) as registered_customers
+from blinkit_customers
+group by area
+order by registered_customers desc
+
+-- Find customers whose total orders exceed 10 and belong to the "Premium" segment.
+
+select customer_name,customer_segment,sum(total_orders) as total_orders
+from blinkit_customers
+where customer_segment = 'Premium' and total_orders > '10'
+group by customer_name,customer_segment
+order by total_orders desc
+
+--  List the top 3 customers generating the most revenue for Blinkit.
+
+select bc.customer_name,sum(bmp.revenue_generated) as total_revenue_generated
+from blinkit_customers bc
+join blinkit_marketing_performance bmp
+on bc.customer_id = bmp.campaign_id
+group by bc.customer_name
+order by total_revenue_gen
