@@ -3,7 +3,7 @@
 ## Project Summary
 
 This project involves creating a comprehensive bank report analysis using SQL to visualize and analyze critical banking metrics. The objective was to provide actionable insights and support data-driven decision-making for bank managers and stakeholders.
-
+ 
 ## Features
 
 - **Data Extraction and Transformation:** Utilized SQL queries to import, clean, and transform raw data into structured formats suitable for analysis.
